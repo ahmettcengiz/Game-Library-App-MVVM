@@ -21,11 +21,6 @@
 * Coroutines
 
 ## ScreenShots 
-MAIN SCREEN
-![1](https://pasteboard.co/K5LqlDJ.jpg)
-
-FAVORITE SCREEN
-![2](https://imgur.com/a/MPOgr99)
-
-DETAIL SCREEN
-![3](https://imgur.com/a/qP5KnDI)
+![1](/screenshots/1.jpeg)
+![2](/screenshots/3.jpeg)
+![3](/screenshots/2.jpeg)
