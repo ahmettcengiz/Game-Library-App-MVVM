@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Appcent Project</string>
+    <string name="search_error_message">Üzgünüz, aradığınız oyun bulunamadı!</string>
+    <string name="game_name">Game Name</string>
+</resources>
