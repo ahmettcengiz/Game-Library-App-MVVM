@@ -22,7 +22,7 @@
 
 ## ScreenShots 
 MAIN SCREEN
-![1](https://imgur.com/a/jmgQ3UZ)
+![1](https://pasteboard.co/K5LqlDJ.jpg)
 
 FAVORITE SCREEN
 ![2](https://imgur.com/a/MPOgr99)
